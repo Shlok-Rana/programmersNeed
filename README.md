@@ -1,1 +1,2 @@
 # programmersNeed
+This code helps to remind us we have to drink water every 30 minute, relax our eyes in every 2 hours and do some physical activity in every 45 minutes, by playing three different sounds belongs to each activity and sounds will play until we write "done" for drink water, "doneeye" for eyes and "donephy" for physical activity. Another important thing is this program also generate the file "mylogs.txt", which contains all our data about which time and date we have done which activity
